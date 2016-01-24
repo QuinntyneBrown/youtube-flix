@@ -8,7 +8,7 @@
     },
     packages: {
         app: {
-            main: './main.ts',
+            main: './bootstrap.ts',
             defaultExtension: 'ts'
         }
     }
